@@ -1,4 +1,4 @@
-Tunnel Mapping Robot
+Tunnel Mapping Robot 
 ====================
 
 *The goal is to develop a self-navigating robot that can map tunnels by wirelessly transmitting data.*
@@ -15,5 +15,8 @@ Tunnel Mapping Robot
 
 
 ![Picture2](https://user-images.githubusercontent.com/93194810/139513872-0ea72162-c5c1-4ffd-9148-b537c79be3c9.jpg)
+
+
+*--Designed and developed by Harsha Sandirigama--*
 
 
