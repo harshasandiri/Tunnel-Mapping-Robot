@@ -432,8 +432,8 @@ void app_main(void)
     ESP_ERROR_CHECK( esp_wifi_set_mode(WIFI_MODE_STA) );
     wifi_config_t sta_config = {
         .sta = {
-            .ssid = "Belong174EF4",
-            .password = "6kjwtpw3zkyb",
+            .ssid = "**************",
+            .password = "***********",
             .bssid_set = false
         }
     };
